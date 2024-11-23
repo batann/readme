@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/batann/readme">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/batann/readme/images/logo.png">
+    <img src="images/logo.png" alt="Logo" width="240" height="240">
   </a>
 
 <h3 align="center">LC-Linux</h3>
