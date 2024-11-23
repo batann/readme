@@ -1,6 +1,6 @@
 # readme
 
-<code>:s!antix! !g</code>
+<code>:s!readme! !g</code>
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -17,14 +17,14 @@
     intended was a light-weight linux distribution based on AntiX-base-OS
     but it seems to....
     <br />
-    <a href="https://github.com/batann/antix"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/batann/readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/batann/antix">View Demo</a>
+    <a href="https://github.com/batann/readme">View Demo</a>
     ·
-    <a href="https://github.com/batann/antix/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/batann/readme/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/batann/antix/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/batann/readme/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `batann`, `antix`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `batann`, `readme`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/batann/antix.git
+   git clone https://github.com/batann/readme.git
    ```
 3. Install NPM packages
    ```sh
@@ -115,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin batann/antix
+   git remote set-url origin batann/readme
    git remote -v # confirm the changes
    ```
 
@@ -142,7 +142,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/batann/antix/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/batann/readme/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,8 +166,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/batann/antix/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=batann/antix" alt="contrib.rocks image" />
+<a href="https://github.com/batann/readme/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=batann/readme" alt="contrib.rocks image" />
 </a>
 
 
@@ -186,7 +186,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/batann/antix](https://github.com/batann/antix)
+Project Link: [https://github.com/batann/readme](https://github.com/batann/readme)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,16 +205,16 @@ Project Link: [https://github.com/batann/antix](https://github.com/batann/antix)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/batann/antix.svg?style=for-the-badge
-[contributors-url]: https://github.com/batann/antix/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/batann/antix.svg?style=for-the-badge
-[forks-url]: https://github.com/batann/antix/network/members
-[stars-shield]: https://img.shields.io/github/stars/batann/antix.svg?style=for-the-badge
-[stars-url]: https://github.com/batann/antix/stargazers
-[issues-shield]: https://img.shields.io/github/issues/batann/antix.svg?style=for-the-badge
-[issues-url]: https://github.com/batann/antix/issues
-[license-shield]: https://img.shields.io/github/license/batann/antix.svg?style=for-the-badge
-[license-url]: https://github.com/batann/antix/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/batann/readme.svg?style=for-the-badge
+[contributors-url]: https://github.com/batann/readme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/batann/readme.svg?style=for-the-badge
+[forks-url]: https://github.com/batann/readme/network/members
+[stars-shield]: https://img.shields.io/github/stars/batann/readme.svg?style=for-the-badge
+[stars-url]: https://github.com/batann/readme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/batann/readme.svg?style=for-the-badge
+[issues-url]: https://github.com/batann/readme/issues
+[license-shield]: https://img.shields.io/github/license/batann/readme.svg?style=for-the-badge
+[license-url]: https://github.com/batann/readme/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
@@ -234,4 +234,5 @@ Project Link: [https://github.com/batann/antix](https://github.com/batann/antix)
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
 
