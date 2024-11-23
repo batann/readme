@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/batann/readme/images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="240" height="240">
+    <img src="images/logo.png" alt="Logo" width="480" height="480">
   </a>
 
 <h3 align="center">LC-Linux</h3>
